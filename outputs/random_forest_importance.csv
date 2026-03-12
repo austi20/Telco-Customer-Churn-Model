@@ -1,0 +1,16 @@
+feature,importance
+cat__Contract_Month-to-month,0.09246919610321146
+num__monthly_to_total_ratio,0.08926898102323773
+num__tenure,0.0738291455844887
+num__TotalCharges,0.06745151941072922
+num__avg_monthly_charge_from_total,0.0637997954653027
+num__MonthlyCharges,0.06316612070909569
+cat__Contract_Two year,0.047947219870458434
+cat__OnlineSecurity_No,0.046644446532621515
+cat__TechSupport_No,0.041378290414291204
+cat__InternetService_Fiber optic,0.03944421537040271
+cat__PaymentMethod_Electronic check,0.02620280684055123
+cat__is_new_customer_No,0.01755834353101714
+cat__tenure_band_0-12 months,0.017534193716033403
+cat__is_new_customer_Yes,0.01752247452492205
+num__total_services,0.014873413197761542
